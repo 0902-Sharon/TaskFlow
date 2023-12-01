@@ -49,6 +49,6 @@ Other dependencies:
 
 - [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/) for the frontend.
 - [Python](https://www.python.org/) and [Flask](https://flask.palletsprojects.com/) for the backend.
-- (Any other prerequisites)
+
 
 
