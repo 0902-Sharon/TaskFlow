@@ -35,9 +35,7 @@ The project is built using a diverse set of technologies to provide a comprehens
    - GPT-3.5, developed by OpenAI, is used for advanced language modeling. It elevates the intelligence of the system by providing context-aware responses and aiding in dynamic workflow creation.
 
 
-## Features
-
-Highlight key features of your project.
+## Key Features
 
 1. **Dynamic Workflow Creation:** Leverage LangChain and GPT models for automatic workflow creation.
 2. **Intelligent Task Assignment:** Utilize an advanced algorithm for intelligent and context-aware task assignment.
