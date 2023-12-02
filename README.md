@@ -52,7 +52,7 @@ Other dependencies:
 ![FloMaker](https://github.com/0902-Sharon/TaskFlow/blob/main/img2.png)
 
 ## Langchain + OCR MultipdfChat 
-![ChatRoom](https://github.com/0902-Sharon/TaskFlow/blob/main/img7.png)
+![MultipdfChat](https://github.com/0902-Sharon/TaskFlow/blob/main/img7.jpg)
 
 ## Real Time Langchain Powered ChatRoom
 ![ChatRoom](https://github.com/0902-Sharon/TaskFlow/blob/main/img3.png)
