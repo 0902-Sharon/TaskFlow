@@ -49,9 +49,9 @@ Other dependencies:
 - [Python](https://www.python.org/) and [Flask](https://flask.palletsprojects.com/) for the backend.
 
 ## Automatic Workflow Generator
-![FloMaker](https://github.com/0902-Sharon/TaskFlow/blob/main/img2.png){:height="100px" width="100px"}
+[FloMaker](https://github.com/0902-Sharon/TaskFlow/blob/main/img2.png)
 
 
 ## Real Time Langchain Powered ChatRoom
-!![FloMaker](https://github.com/0902-Sharon/TaskFlow/blob/main/img3.png){:height="100px" width="100px"}
+[ChatRoom](https://github.com/0902-Sharon/TaskFlow/blob/main/img3.png)
 
